@@ -38,10 +38,17 @@
 							<Item Name="Keyword" Foreground="0x00AF912B" Background="0x02000000" BoldFont="Yes"/>
 							<Item Name="Identifier" Foreground="0x0092AF2C" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0074DBE7" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Comment" Foreground="0x005E7175" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String(C# @ Verbatim)" Foreground="0x00418B5F" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types" Foreground="0x00418B5F" Background="0x01000001" BoldFont="No"/>
 							<Item Name="User Types(Interfaces)" Foreground="0x008080FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Enums)" Foreground="0x00005CB9" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Keyword" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Delimiter" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Name" Foreground="0x00FBA900" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute" Foreground="0x008080FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Value" Foreground="0x0080FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Attribute Quotes" Foreground="0x0080FFFF" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
 					<Category GUID="{FF349800-EA43-46C1-8C98-878E78F46501}" FontName="Courier New" FontSize="10" CharSet="1" FontIsDefault="No">
