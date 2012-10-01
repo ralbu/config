@@ -20,6 +20,32 @@
 							<Item Name="ReSharper Hyperlink" Foreground="0x00008000" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Static Class Identifier" Foreground="0x00408000" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Struct Identifier" Foreground="0x00008000" Background="0x01000001" BoldFont="No"/>
+							<Item Name="BuildHead" Foreground="0x00008000" Background="0x00262525" BoldFont="No"/>
+							<Item Name="BuildText" Foreground="0x00808080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogError" Foreground="0x000000FF" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogWarning" Foreground="0x00008080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogInformation" Foreground="0x00808000" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom1" Foreground="0x00800080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom2" Foreground="0x007A96E9" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom3" Foreground="0x00008CFF" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom4" Foreground="0x002A2AA5" Background="0x00262525" BoldFont="No"/>
+							<Item Name="FindResultsSearchTerm" Foreground="0x00808000" Background="0x00262525" BoldFont="No"/>
+							<Item Name="FindResultsFilename" Foreground="0x00808080" Background="0x00262525" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{9973EFDF-317D-431C-8BC1-5E88CBFD4F7F}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="BuildHead" Foreground="0x00008000" Background="0x00262525" BoldFont="No"/>
+							<Item Name="BuildText" Foreground="0x00808080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogInformation" Foreground="0x00808000" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogWarning" Foreground="0x00008080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogError" Foreground="0x000000FF" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom1" Foreground="0x00800080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom2" Foreground="0x007A96E9" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom3" Foreground="0x00008CFF" Background="0x00262525" BoldFont="No"/>
+							<Item Name="LogCustom4" Foreground="0x002A2AA5" Background="0x00262525" BoldFont="No"/>
+							<Item Name="FindResultsFilename" Foreground="0x00808080" Background="0x00262525" BoldFont="No"/>
+							<Item Name="FindResultsSearchTerm" Foreground="0x00808000" Background="0x00262525" BoldFont="No"/>
 						</Items>
 					</Category>
 					<Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Segoe UI" FontSize="9" CharSet="1" FontIsDefault="No">
