@@ -13,13 +13,16 @@
 					</Category>
 					<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontName="Courier New" FontSize="10" CharSet="1" FontIsDefault="No">
 						<Items>
-							<Item Name="Identifier" Foreground="0x0092AF2C" Background="0x01000001" BoldFont="No"/>
-							<Item Name="Keyword" Foreground="0x00FF0000" Background="0x01000001" BoldFont="Yes"/>
-							<Item Name="String" Foreground="0x0074DBE7" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Todo Item" Foreground="0x00808000" Background="0x01000001" BoldFont="Yes"/>
 							<Item Name="ReSharper Hyperlink" Foreground="0x00008000" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Static Class Identifier" Foreground="0x00408000" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Struct Identifier" Foreground="0x00008000" Background="0x01000001" BoldFont="No"/>
+							<Item Name="Identifier" Foreground="0x0092AF2C" Background="0x01000001" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x00FF0000" Background="0x01000001" BoldFont="Yes"/>
+							<Item Name="String" Foreground="0x0074DBE7" Background="0x01000001" BoldFont="No"/>
+							<Item Name="HTML Attribute" Foreground="0x001ACEA2" Background="0x02000000" BoldFont="No"/>
+							<Item Name="HTML Attribute Value" Foreground="0x0074DBE7" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Razor Code" Foreground="0x01000000" Background="0x00262626" BoldFont="No"/>
 							<Item Name="BuildHead" Foreground="0x00008000" Background="0x00262525" BoldFont="No"/>
 							<Item Name="BuildText" Foreground="0x00808080" Background="0x00262525" BoldFont="No"/>
 							<Item Name="LogError" Foreground="0x000000FF" Background="0x00262525" BoldFont="No"/>
