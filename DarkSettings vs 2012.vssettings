@@ -18,9 +18,11 @@
 							<Item Name="ReSharper Static Class Identifier" Foreground="0x00408000" Background="0x01000001" BoldFont="No"/>
 							<Item Name="ReSharper Struct Identifier" Foreground="0x00008000" Background="0x01000001" BoldFont="No"/>
 							<Item Name="Knockout Region" Foreground="0x01000000" Background="0x001E1E1E" BoldFont="No"/>
+							<Item Name="HtmlClientTemplateValueFormatDefinition" Foreground="0x000080FF" Background="0x002D2D2D" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x0092AF2C" Background="0x01000001" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00FF0000" Background="0x01000001" BoldFont="Yes"/>
 							<Item Name="String" Foreground="0x0074DBE7" Background="0x01000001" BoldFont="No"/>
+							<Item Name="Razor Code" Foreground="0x01000000" Background="0x00262626" BoldFont="No"/>
 							<Item Name="BuildHead" Foreground="0x00008000" Background="0x00262525" BoldFont="No"/>
 							<Item Name="BuildText" Foreground="0x00808080" Background="0x00262525" BoldFont="No"/>
 							<Item Name="LogError" Foreground="0x000000FF" Background="0x00262525" BoldFont="No"/>
